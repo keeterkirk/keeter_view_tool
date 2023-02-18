@@ -1,8 +1,6 @@
 # KeeterViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/keeter_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This is a gem that I created to be able to offload common functionality that I have in applications that I create.  This gem is intended to be used as a way of standardizing that functionality across applications.
 
 ## Installation
 
