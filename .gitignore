@@ -9,3 +9,4 @@
 # Ignor everything in the .idea folder
 
 .idea/
+*.gem
